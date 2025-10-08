@@ -1,6 +1,6 @@
 ## Hello there! I'm Claudio Antunes 👋
 
-- 🔭 Rebuilding my profile after a long time working in private
+- 🔭 Rebuilding my profile after a long time "working in private"
 - 🌱 I’m currently learning Data Science and its best practices and applications
 - 💬 Ask me about Financial Modelling, Valuation and Economics
 - ⚡ Fun fact: I'm a dog person, but a cat showed up in my life and adopted me (:
@@ -20,4 +20,4 @@
    <a href = "mailto:antunesjr.c@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
 
-##
+
