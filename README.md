@@ -11,7 +11,7 @@
 ⚠️⚒️ Under construction
 
 <div>
-    <a href="https://github.com/antunismos">
+    <a href="https://github.com/antunesco">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antunesco&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesco&layout=compact&langs_count=16&theme=radical">
 </div>
