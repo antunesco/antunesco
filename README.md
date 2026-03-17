@@ -5,7 +5,6 @@
 - 💬 Ask me about Financial Modelling, Valuation and Economics
 - ⚡ Fun fact: I'm a dog person, but a cat showed up in my life and adopted me (:
 
-<a href = "https://x.com/antunismos"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "https://www.instagram.com/antunismos"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br><br>
 ⚠️⚒️ Under construction
