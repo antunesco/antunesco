@@ -9,12 +9,6 @@
 <br><br>
 ⚠️⚒️ Under construction
 
-<div>
-    <a href="https://github.com/antunismos">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antunismos&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunismos&layout=compact&langs_count=16&theme=radical">
-</div>
-
 ## How to reach me 📧
 
 <div>
