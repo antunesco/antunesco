@@ -1,8 +1,8 @@
 ## Hello there! I'm Claudio Antunes 👋
 
-- 🔭 Rebuilding my profile after a long time "working in private"
+- 🔭 Rebuilding my profile after the longest time "working in private"
 - 🌱 I’m currently learning Data Science and its best practices and applications
-- 💬 Ask me about Financial Modelling, Valuation and Economics
+- 💬 Ask me about FP&A, Financial Modelling, Valuation and Economics
 - ⚡ Fun fact: I'm a dog person, but a cat showed up in my life and adopted me (:
 
 <a href = "https://www.instagram.com/antunismos"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -10,9 +10,9 @@
 ⚠️⚒️ Under construction
 
 <div>
-    <a href="https://github.com/antunesco">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antunesco&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesco&layout=compact&langs_count=16&theme=radical">
+    <a href="https://github.com/antunismos">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antunismos&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunismos&layout=compact&langs_count=16&theme=radical">
 </div>
 
 ## How to reach me 📧
