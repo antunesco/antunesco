@@ -1,13 +1,30 @@
 ## Hello there! I'm Claudio Antunes 👋
 
-- 🔭 Rebuilding my profile after the longest time "working in private"
-- 🌱 I’m currently learning Data Science and its best practices and applications
-- 💬 Ask me about FP&A, Financial Modelling, Valuation and Economics
-- ⚡ Fun fact: I'm a dog person, but a cat showed up in my life and adopted me (:
+Financial Planning & Analysis professional with experience in valuation, financial modeling, budgeting, forecasting and strategic finance.
 
-<a href = "https://www.instagram.com/antunismos"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<br><br>
-⚠️⚒️ Under construction
+I enjoy building systems that connect business thinking with automation, analytics and technology. Most of my projects live somewhere between finance, data and process optimization.
+
+### Currently exploring
+
+* Python for automation and data workflows
+* Financial analytics and business intelligence
+* Digital products and process automation
+* AI-assisted productivity systems
+
+### Ask me about
+
+* FP&A
+* Financial Modeling
+* Valuation (DCF & Multiples)
+* Budgeting & Forecasting
+* Excel/VBA Automation
+* Business Analysis
+
+### Fun fact
+
+🐱 I always considered myself a dog person, until a cat adopted me.
+
+⚠️ Work in progress. More projects coming soon.
 
 ## How to reach me 📧
 
